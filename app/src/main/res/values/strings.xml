@@ -2,4 +2,5 @@
     <string name="app_name">MyProject</string>
     <string name="textcharacter">Text Character</string>
     <string name="add">Add</string>
+    <string name="threecharacter">Three Character</string>
 </resources>

@@ -12,10 +12,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding= ActivityMainBinding.inflate(layoutInflater)
-        //btnAdd=findViewById(R.id.btnAdd)
         setContentView(binding.root)
         binding.btnAdd.setOnClickListener {
-          
+
         }
     }
 }

@@ -12,13 +12,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="30sp"
-        android:text="@string/textcharacter"
+        android:text="@string/threecharacter"
         android:layout_gravity="center"/>
     <EditText
         android:id="@+id/etThreeCharacter"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="@string/textcharacter"
+        android:hint="@string/threecharacter"
         android:textSize="30sp"
         android:layout_gravity="center"/>
     <Button
